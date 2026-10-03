@@ -1,4 +1,4 @@
-# 🎓 Student-Course Enrollment System - Backend (FastAPI)
+# 🎓  AIUB UniAssist A Hybrid RAG-Powered University Information and Course Management System (FastAPI)
 
 ## 📌 Overview
 
